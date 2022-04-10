@@ -1,0 +1,1 @@
+This project is a test of the basic HTML topics covered so far in the Odin Project. Some of the topics include HTML tag and elements, links, images, and body content
